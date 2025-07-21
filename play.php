@@ -1,6 +1,6 @@
 <?php
 // IP y puerto del GXV3500
-$destino = "rtp://192.168.1.80:5004"; // ← cambia esta IP por la real
+$destino = "rstp://192.168.1.80:5004"; // ← cambia esta IP por la real
 
 // Ruta al binario de FFmpeg
 $ffmpeg = "C:/ffmpeg/bin/ffmpeg.exe";
